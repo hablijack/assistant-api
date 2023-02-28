@@ -1,0 +1,3 @@
+rhasspy-hermes-app
+apscheduler
+feedparser
